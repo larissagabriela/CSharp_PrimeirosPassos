@@ -1,0 +1,7 @@
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\PrimeirasVariaveis\PrimeirasVariaveis\bin\Debug\PrimeirasVariaveis.exe.config
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\PrimeirasVariaveis\PrimeirasVariaveis\bin\Debug\PrimeirasVariaveis.exe
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\PrimeirasVariaveis\PrimeirasVariaveis\bin\Debug\PrimeirasVariaveis.pdb
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\PrimeirasVariaveis\PrimeirasVariaveis\obj\Debug\PrimeirasVariaveis.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\PrimeirasVariaveis\PrimeirasVariaveis\obj\Debug\PrimeirasVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\PrimeirasVariaveis\PrimeirasVariaveis\obj\Debug\PrimeirasVariaveis.exe
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\PrimeirasVariaveis\PrimeirasVariaveis\obj\Debug\PrimeirasVariaveis.pdb
