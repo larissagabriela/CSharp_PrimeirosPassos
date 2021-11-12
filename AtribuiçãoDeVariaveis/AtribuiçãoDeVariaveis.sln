@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtribuiçãoDeVariaveis", "AtribuiçãoDeVariaveis\AtribuiçãoDeVariaveis.csproj", "{68CAF5FF-1C1D-4925-B358-2AEE5CB58BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68CAF5FF-1C1D-4925-B358-2AEE5CB58BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CAF5FF-1C1D-4925-B358-2AEE5CB58BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CAF5FF-1C1D-4925-B358-2AEE5CB58BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CAF5FF-1C1D-4925-B358-2AEE5CB58BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EDB37AC-B186-4CC3-9C76-C4B62525E440}
+	EndGlobalSection
+EndGlobal

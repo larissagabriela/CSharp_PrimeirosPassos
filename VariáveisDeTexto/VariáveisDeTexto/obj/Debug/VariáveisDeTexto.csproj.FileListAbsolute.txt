@@ -1,0 +1,7 @@
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\VariáveisDeTexto\VariáveisDeTexto\bin\Debug\VariáveisDeTexto.exe.config
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\VariáveisDeTexto\VariáveisDeTexto\bin\Debug\VariáveisDeTexto.exe
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\VariáveisDeTexto\VariáveisDeTexto\bin\Debug\VariáveisDeTexto.pdb
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\VariáveisDeTexto\VariáveisDeTexto\obj\Debug\VariáveisDeTexto.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\VariáveisDeTexto\VariáveisDeTexto\obj\Debug\VariáveisDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\VariáveisDeTexto\VariáveisDeTexto\obj\Debug\VariáveisDeTexto.exe
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\VariáveisDeTexto\VariáveisDeTexto\obj\Debug\VariáveisDeTexto.pdb

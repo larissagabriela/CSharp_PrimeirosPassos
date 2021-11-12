@@ -1,0 +1,7 @@
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\AtribuiçãoDeVariaveis\AtribuiçãoDeVariaveis\bin\Debug\AtribuiçãoDeVariaveis.exe.config
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\AtribuiçãoDeVariaveis\AtribuiçãoDeVariaveis\bin\Debug\AtribuiçãoDeVariaveis.exe
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\AtribuiçãoDeVariaveis\AtribuiçãoDeVariaveis\bin\Debug\AtribuiçãoDeVariaveis.pdb
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\AtribuiçãoDeVariaveis\AtribuiçãoDeVariaveis\obj\Debug\AtribuiçãoDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\AtribuiçãoDeVariaveis\AtribuiçãoDeVariaveis\obj\Debug\AtribuiçãoDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\AtribuiçãoDeVariaveis\AtribuiçãoDeVariaveis\obj\Debug\AtribuiçãoDeVariaveis.exe
+C:\Users\Larissa\OneDrive\Documentos\Alura\C#\AtribuiçãoDeVariaveis\AtribuiçãoDeVariaveis\obj\Debug\AtribuiçãoDeVariaveis.pdb
